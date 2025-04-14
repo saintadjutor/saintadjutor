@@ -1,7 +1,7 @@
-<h1>Hello, My Name is Jacob </h1>
+<h1>Hello, My Name is Jacob!</h1>
 
-<h2>This is my github page where all of my IT/Security/Programming projects will be posted</h2>
-<h3>Hope you enjoy</h3>
+<h2>This is my github page where all of my IT/Security/Programming projects will be posted.</h2>
+<h3>Hope you enjoy...</h3>
 
 <h2>TryHackMe Labs Reports/Walkthroughs:</h2>
 
