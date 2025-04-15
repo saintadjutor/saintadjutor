@@ -1,6 +1,6 @@
-<h1>Hello! My name is Jacob Graessle</h1>
+<h1>Hello, My name is Jacob</h1>
 
-<h2>💻This is my github page where my IT/Security/Programming projects will be posted💻</h2>
+<h3>💻This is where my IT/Security/Programming projects will be posted💻</h3>
 <h3>👍Hope you enjoy...👍</h3>
 
 <h2>📃TryHackMe Labs Reports/Walkthroughs📃:</h2>
