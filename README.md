@@ -7,6 +7,7 @@
 
 - <b>[Phishing Analysis Fundamentals and Phishing Emails in Action](https://github.com/saintadjutor/Phishing-Analysis-and-Phishing-Emails-in-Action)</b>
 - <b>[Splunk: Basics and Incident Handling with Splunk](https://github.com/saintadjutor/Splunk-Basics-and-Incident-Handling-with-Splunk)</b>
+- <b>[Traffic Analysis and Snort](https://github.com/saintadjutor/Traffic-Analysis-and-Snort)</b>
 
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
