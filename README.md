@@ -1,4 +1,4 @@
-<h1>Hello, My name is Jacob!</h1>
+<h1>Hello, my name is Jacob!</h1>
 
 <h3>I am a college student with a passion for Political Science, Computer Science, IT, Music, and most importantly Cybersecurity!</h3>
 
