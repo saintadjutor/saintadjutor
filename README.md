@@ -2,7 +2,7 @@
 
 <h3>I am a college student with a passion for Political Science, Computer Science, IT, Music, and most importantly Cybersecurity!</h3>
 
-<h3>I have interests in Security Operations Centers, Cybersecurity Compliance, Digital Forensics, Pentesting, and Cybersecurity Awareness./h3>
+<h3>I have interests in Security Operations Centers, Cybersecurity Compliance, Digital Forensics, Pentesting, and Cybersecurity Awareness.</h3>
 
 <h3>Thank you for checking out my projects!</h3>
 
